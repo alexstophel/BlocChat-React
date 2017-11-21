@@ -1,0 +1,21 @@
+{
+  "name": "BlocChat-React",
+  "version": "1.0.0",
+  "description": "Simple chat application as part of the Bloc coursework.",
+  "main": "index.js",
+  "author": "Alex Stophel <alexstophel@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start-dev": "webpack-dev-server --watch"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-react": "^6.24.1",
+    "firebase": "^4.6.2",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
+  }
+}
